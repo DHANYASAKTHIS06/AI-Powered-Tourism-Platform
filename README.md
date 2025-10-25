@@ -31,7 +31,7 @@ This platform is designed to enhance tourism experiences using AI technology. It
 ## **Technologies Used**
 
 - Frontend: Figma Prototype  
-- Backend: [Your backend technology, if any]  
+- Backend: Django  
 - AI Integration: [Any AI APIs used]  
 - Collaboration: GitHub for version control
 
